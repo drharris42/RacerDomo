@@ -9,6 +9,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.EntityFramework;
 using Microsoft.Owin.Security;
 using RacerDomo.Models;
+using RD.Entities;
 
 namespace RacerDomo.Controllers
 {
@@ -78,7 +79,7 @@ namespace RacerDomo.Controllers
         {
             if (ModelState.IsValid)
             {
-                var user = new ApplicationUser() { UserName = model.UserName };
+                var user = new ApplicationUser() { UserName = model.UserName, Location = new Location(),Birthdate = DateTime.UtcNow };
                 var result = await UserManager.CreateAsync(user, model.Password);
                 if (result.Succeeded)
                 {

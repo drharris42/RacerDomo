@@ -8,6 +8,13 @@ namespace RD.Entities
 {
     public class Location
     {
+        public Location()
+        {
+            this.Country = "";
+            this.State = "";
+            this.City = "";
+            this.ZipCode = "";
+        }
         public string Country { get; set; }
         public string State { get; set; }
         public string City { get; set; }
