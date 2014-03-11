@@ -4,7 +4,7 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
-using RacerDomo.Data;
+using RD.Entities;
 
 namespace RacerDomo.Controllers
 {
@@ -13,17 +13,7 @@ namespace RacerDomo.Controllers
         // GET api/event
         public IHttpActionResult Get()
         {
-            var testEvent = new Event();
-            testEvent.DateStart = DateTime.UtcNow;
-            testEvent.City = "Denver";
-            testEvent.Country = "USA";
-            testEvent.State = "CO";
-            testEvent.Id = Guid.NewGuid();
-
-            var context = new RDDataDataContext();
-            context.Events.InsertOnSubmit(testEvent);
-            context.SubmitChanges();
-
+            var testEvent = new FEvent();
 
             return Json(testEvent);
         }

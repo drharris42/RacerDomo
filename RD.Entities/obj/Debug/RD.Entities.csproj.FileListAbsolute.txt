@@ -3,3 +3,9 @@ C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Entitie
 C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Entities\obj\Debug\RD.Entities.csprojResolveAssemblyReference.cache
 C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Entities\obj\Debug\RD.Entities.dll
 C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Entities\obj\Debug\RD.Entities.pdb
+C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Entities\bin\Debug\RD.Entities.dll
+C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Entities\bin\Debug\RD.Entities.pdb
+C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Entities\obj\Debug\RD.Entities.csprojResolveAssemblyReference.cache
+C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Entities\obj\Debug\RD.Entities.dll
+C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Entities\obj\Debug\RD.Entities.pdb
+C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Entities\bin\Debug\RD.Entities.dll.config

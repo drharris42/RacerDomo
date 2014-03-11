@@ -1,0 +1,8 @@
+C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Repositories\bin\Debug\RD.Repositories.dll
+C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Repositories\bin\Debug\RD.Repositories.pdb
+C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Repositories\bin\Debug\RD.Entities.dll
+C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Repositories\bin\Debug\RD.Entities.pdb
+C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Repositories\obj\Debug\RD.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Repositories\obj\Debug\RD.Repositories.dll
+C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Repositories\obj\Debug\RD.Repositories.pdb
+C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Repositories\bin\Debug\RD.Repositories.dll.config

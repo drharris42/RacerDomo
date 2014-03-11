@@ -6,11 +6,12 @@ using System.Threading.Tasks;
 
 namespace RD.Entities
 {
-    public class Event
+    public class FEvent
     {
         public Guid Id { get; set; }
-        public DateTime StartDate { get; set; }
-        public DateTime EndDate { get; set; }
+        public string Name { get; set; }
+        public DateTime DateStart { get; set; }
+        public DateTime DateEnd { get; set; }
         public Location Location { get; set; }
     }
 }
