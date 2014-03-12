@@ -7,3 +7,12 @@ C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Services\bin\Deb
 C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Services\bin\Debug\RD.Repositories.pdb
 C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Services\obj\Debug\RD.Services.dll
 C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Services\obj\Debug\RD.Services.pdb
+C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Services\obj\Debug\RD.DataServices.csprojResolveAssemblyReference.cache
+C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Services\bin\Debug\RD.Services.dll
+C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Services\bin\Debug\RD.Services.pdb
+C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Services\bin\Debug\RD.Entities.dll
+C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Services\bin\Debug\RD.Repositories.dll
+C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Services\bin\Debug\RD.Entities.pdb
+C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Services\bin\Debug\RD.Repositories.pdb
+C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Services\obj\Debug\RD.Services.dll
+C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Services\obj\Debug\RD.Services.pdb

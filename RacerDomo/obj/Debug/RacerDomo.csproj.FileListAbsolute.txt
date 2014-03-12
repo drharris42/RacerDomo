@@ -126,3 +126,7 @@ C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RacerDomo\bin\RD.Se
 C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RacerDomo\bin\RD.Repositories.dll
 C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RacerDomo\bin\RD.Services.pdb
 C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RacerDomo\bin\RD.Repositories.pdb
+C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RacerDomo\bin\RD.Services.dll
+C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RacerDomo\bin\RD.Services.pdb
+C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RacerDomo\bin\RD.Repositories.dll
+C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RacerDomo\bin\RD.Repositories.pdb

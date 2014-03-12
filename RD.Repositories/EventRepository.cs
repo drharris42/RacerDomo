@@ -11,22 +11,28 @@ namespace RD.Repositories
     public class EventRepository
     {
         public FEvent SaveEvent(FEvent newEvent){
-            var testEvent = new Event();
-            testEvent.DateStart = DateTime.UtcNow;
-            testEvent.City = "Denver";
-            testEvent.Country = "USA";
-            testEvent.State = "CO";
-            testEvent.Id = Guid.NewGuid();
+            var eventToSave = TranslateFrontEndEntityToDBEntity(newEvent);
 
             var context = new RDDatabaseEntitiesDataContext();
-            context.Events.InsertOnSubmit(testEvent);
+            context.Events.InsertOnSubmit(eventToSave);
             context.SubmitChanges();
-            return TranslateDBEntityToFrontEndEntity(testEvent);
+            return newEvent;
         }
 
         private FEvent TranslateDBEntityToFrontEndEntity(Event dbEvent)
         {
             return new FEvent();
+        }
+
+        private Event TranslateFrontEndEntityToDBEntity(FEvent fEvent){
+            var newEvent = new Event();
+            newEvent.DateStart = fEvent.DateStart;
+            newEvent.City = fEvent.Location.City;
+            newEvent.Country = fEvent.Location.Country;
+            newEvent.State = fEvent.Location.State;
+            newEvent.Id = fEvent.Id;
+            newEvent.UserId = fEvent.UserId;
+            return newEvent;
         }
     }
 }

@@ -9,3 +9,4 @@ C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Entities\obj\Deb
 C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Entities\obj\Debug\RD.Entities.dll
 C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Entities\obj\Debug\RD.Entities.pdb
 C:\Users\Dru\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Entities\bin\Debug\RD.Entities.dll.config
+C:\Users\Dru Harrison\Documents\Visual Studio 2013\Projects\RacerDomo\RD.Entities\bin\Debug\RD.Entities.dll.config

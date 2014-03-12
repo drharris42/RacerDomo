@@ -5,6 +5,8 @@ using System.Net;
 using System.Net.Http;
 using System.Web.Http;
 using RD.Entities;
+using RD.Services;
+using Microsoft.AspNet.Identity;
 
 namespace RacerDomo.Controllers
 {
@@ -25,8 +27,20 @@ namespace RacerDomo.Controllers
         }
 
         // POST api/event
-        public void Post([FromBody]string value)
+        [Authorize]
+        public void Post([FromBody]FEvent fEvent)
         {
+            var userId = User.Identity.GetUserId();
+            fEvent.UserId = userId;
+            fEvent.Id = Guid.NewGuid();
+            fEvent.Location = new Location
+            {
+                City = "denver",
+                Country = "USA",
+                State = "CO"
+            };
+            var eventDataService = new EventDataService();
+            eventDataService.SaveEvent(fEvent);
         }
 
         // PUT api/event/5
